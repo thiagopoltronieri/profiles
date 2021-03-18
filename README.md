@@ -1,1 +1,1 @@
-<a href="http://thiagopoltronieri.github.io/profiles" target="_blank">Clique Aqui</a> para visualizar.
+<a href="http://thiagopoltronieri.github.io/profiles" target="_blank" >Clique Aqui</a> para visualizar.
