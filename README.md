@@ -1,1 +1,1 @@
-# [Clique Aqui](http://thiagopoltronieri.github.io/profiles) para visualizar
+[Clique Aqui](http://thiagopoltronieri.github.io/profiles) para visualizar
