@@ -1,0 +1,30 @@
+.whatsapp-button:hover {
+    transform: scale(1.2);
+    transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+}
+
+a:active,
+a:hover {
+    color: #ED4245;
+    text-decoration: underline;
+}
+
+.whatsapp-button {
+    position: fixed;
+    display: block;
+    bottom: 0;
+    margin: 24px;
+    margin-bottom: 16px;
+    transition-duration: 0.5s;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    transform: scale(1);
+    z-index: 999;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+    color: #ED4245;
+}
