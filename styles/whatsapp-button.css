@@ -13,6 +13,7 @@ a:hover {
     position: fixed;
     display: block;
     bottom: 0;
+    right: 0%;
     margin: 24px;
     margin-bottom: 16px;
     transition-duration: 0.5s;
