@@ -192,14 +192,6 @@ google-chrome --headless --no-sandbox --disable-gpu \
 - O projeto continua propositalmente simples em stack para facilitar manutencao, deploy estatico e longevidade.
 - O conteudo foi reorganizado e reescrito para melhorar clareza de posicionamento, leitura executiva e consistencia entre marca pessoal, portfolio e curriculo.
 
-## Proximos passos recomendados
-
-- adicionar metadados Open Graph e Twitter Cards
-- criar favicon e imagens sociais especificas para compartilhamento
-- reduzir peso das imagens com WebP ou AVIF
-- adicionar uma pagina de contato ou CTA de agendamento
-- versionar historico profissional e curriculo a partir de um unico arquivo-fonte no futuro
-
 ## Licenca
 
 Consulte `LICENSE`.
